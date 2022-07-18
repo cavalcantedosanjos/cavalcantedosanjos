@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavalantedosanjos&show_icons=true&theme=highcontrast&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavalcantedosanjos&show_icons=true&theme=highcontrast&count_private=true)
 
 
 <!--
